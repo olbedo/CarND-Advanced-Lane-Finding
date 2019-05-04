@@ -118,7 +118,7 @@ In code cell 17 I created a class `Line()` to hold the data and methods for line
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Here's a [link to my video result](./pics/project_video.mp4)
+Here's a [link to my video result](https://drive.google.com/file/d/1BV-Ky6aeLs_uuu1YJNplopZc78OTyTTU/view)
 
 ---
 
